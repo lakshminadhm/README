@@ -228,7 +228,7 @@ Markdown supports inline HTML for advanced use cases:
 <div style="color:red;">This text is red</div>
 
 
-### 14. Advanced Table Formatting
+### 3. Advanced Table Formatting
 Alignment options can be added to tables using colons:
 ```
 | Left   | Center | Right |
@@ -258,3 +258,9 @@ Alignment options can be added to tables using colons:
 | Escaping Characters| `\*Not Bold\*`                    |
 | Autolinks          | `https://example.com`             |
 | Inline HTML        | `<div>Custom HTML</div>`          |
+
+
+<div style="display: flex; justify-content: space-between;">
+  <h3><a href="./structure.md">⬅️ Previous: Structure of a Good README</a></h3>
+  <h3><a >Next: NA ➡️</a></h3>
+</div>
