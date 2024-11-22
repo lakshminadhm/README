@@ -94,9 +94,8 @@ If your project requires it, consider including:
 
 ---
 
-<div>
-  <a href="./introduction.md">⬅️ Previous: Introduction</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./markdown.md">Next: Markdown Overview ➡️</a>
+<div style="display: flex; justify-content: space-between;">
+  <h3><a href="./introduction.md">⬅️ Previous: Introduction</a></h3>
+  <h3><a href="./markdown.md">Next: Markdown Overview ➡️</a></h3>
 </div>
 
