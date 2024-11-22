@@ -94,12 +94,9 @@ If your project requires it, consider including:
 
 ---
 
-<table style="width: 100%;">
-  <tr>
-    <td align="left"><a href="./introduction.md">⬅️ Previous: Introduction</a></td>
-    <td align="right"><a href="./markdown.md">Next: Markdown Overview ➡️</a></td>
-  </tr>
-</table>
-
-
+<div>
+  <a href="./introduction.md">⬅️ Previous: Introduction</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./markdown.md">Next: Markdown Overview ➡️</a>
+</div>
 
